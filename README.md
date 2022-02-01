@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KobiRob
-- 👀 I’m interested in scuba diving, animation, rubix's Cube, and gaming.
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on coding projects for games
+- 👀 I’m interested in scuba diving, animation, rubix's cube, and gaming.
+- 🌱 I’m currently learning coding.
+- 💞️ I’m looking to collaborate on coding projects for games.
 - 📫 How to reach me my email.
 
 <!---
